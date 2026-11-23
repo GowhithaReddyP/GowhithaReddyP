@@ -1,36 +1,27 @@
-# Log Scanner
+# Hi, I'm Gowhitha Pinnu 👋
 
-A small Python script that scans an application log file after a
-release and flags failures, so nobody has to read the whole log by
-hand.
+Front-end developer based in Halifax, Nova Scotia, with experience
+building responsive, user-focused web applications.
 
-## Why I built it
+## What I work with
 
-After every release, my team used to check application logs manually
-to find errors. That took time and things were easy to miss. This
-script does the first pass automatically: it counts failures and
-warnings and shows the first failure lines with line numbers, so
-debugging starts in the right place.
+- **Front-end:** React, TypeScript, JavaScript, HTML5, CSS3
+- **Back-end & data:** Python, Java, REST APIs, SQL (MySQL, T-SQL, Oracle)
+- **Cloud & tools:** AWS, Microsoft Azure, Git, GitHub, Jenkins, CI/CD, Jira
 
-## How to run
+## What I'm doing now
 
-```bash
-python log_scanner.py sample_app.log
-```
+- Learning data analytics (SQL, Tableau, data storytelling) through
+  the Skills for Hire Atlantic program
+- Interested in UX, internal tools, and observability — making
+  complex systems clear and easy to use
 
-## Example output
+## Featured project
 
-```
-Scanned 12 lines from sample_app.log
-Failures found: 3
-Warnings found: 2
+- **Log Scanner** — a Python script that scans application logs after
+  a release and flags failures, replacing manual log checking.
 
---- First failures ---
-Line 6: 2026-11-23 09:00:19 ERROR Payment gateway timeout after 30s
-Line 7: 2026-11-23 09:00:19 ERROR Failed to process payment for order_id=882
-Line 11: 2026-11-23 09:00:44 ERROR NullPointerException in ReportService.generate()
-```
+## Contact
 
-## Tech used
-
-- Python 3 (standard library only, no installs needed)
+- Email: gowhithapinnu97@gmail.com
+- Location: Halifax, Nova Scotia, Canada
