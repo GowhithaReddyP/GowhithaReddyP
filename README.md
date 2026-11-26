@@ -19,7 +19,7 @@ Software developer based in Halifax, Nova Scotia, moving to the data side — cu
 
 - **Log Scanner** — a Python script that scans application logs after
   a release and flags failures, replacing manual log checking.
-  - **Sales ETL Pipeline** — a Python pipeline that cleans messy sales data (375 rows down to 350 clean rows), loads it into SQLite, and analyses $194,879.52 in sales.
+- **Sales ETL Pipeline** — a Python pipeline that cleans messy sales data (375 rows down to 350 clean rows), loads it into SQLite, and analyses $194,879.52 in sales.
 
 
 ## Contact
