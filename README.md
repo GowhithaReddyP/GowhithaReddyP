@@ -1,7 +1,6 @@
 # Hi, I'm Gowhitha Pinnu 👋
 
-Front-end developer based in Halifax, Nova Scotia, with experience
-building responsive, user-focused web applications.
+Software developer based in Halifax, Nova Scotia, moving to the data side — currently learning data analytics (SQL, Tableau, data storytelling) through Skills for Hire Atlantic, and building data projects.
 
 ## What I work with
 
@@ -20,6 +19,8 @@ building responsive, user-focused web applications.
 
 - **Log Scanner** — a Python script that scans application logs after
   a release and flags failures, replacing manual log checking.
+  - **Sales ETL Pipeline** — a Python pipeline that cleans messy sales data (375 rows down to 350 clean rows), loads it into SQLite, and analyses $194,879.52 in sales.
+
 
 ## Contact
 
